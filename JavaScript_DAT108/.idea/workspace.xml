@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8f667b-6198-462e-bbaa-bee9f5de42d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Ri7d1K9ChPQSn3LzxIKVW2RhYL" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/INFO134" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\age-admin\WebstormProjects\JavaScript_DAT108\variabel" />
+      <recent name="C:\Users\age-admin\WebstormProjects\JavaScript_DAT108\hallo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\age-admin\WebstormProjects\JavaScript_DAT108" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.struktur.html">
+    <configuration name="Eksamen2018.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_DAT108/eksamen/Eksamen2018.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="eksempel7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/JavaScript_DAT108/person2/eksempel7.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="hallo1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_DAT108/hallo/hallo1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hallo6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_DAT108/hallo/hallo6.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="struktur.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_DAT108/struktur/struktur.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.hallo6.html" />
+      <item itemvalue="JavaScript Debug.eksempel7.html" />
+      <item itemvalue="JavaScript Debug.Eksamen2018.html" />
+      <item itemvalue="JavaScript Debug.hallo1.html" />
+      <item itemvalue="JavaScript Debug.struktur.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.struktur.html" />
+        <item itemvalue="JavaScript Debug.hallo1.html" />
+        <item itemvalue="JavaScript Debug.Eksamen2018.html" />
+        <item itemvalue="JavaScript Debug.hallo6.html" />
+        <item itemvalue="JavaScript Debug.eksempel7.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8f667b-6198-462e-bbaa-bee9f5de42d8" name="Default Changelist" comment="" />
+      <created>1540469008056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540469008056</updated>
+      <workItem from="1540469009341" duration="875000" />
+      <workItem from="1540472019378" duration="26451000" />
+      <workItem from="1540940781383" duration="10000" />
+      <workItem from="1540940817965" duration="4857000" />
+      <workItem from="1554910002328" duration="5588000" />
+      <workItem from="1554917413108" duration="4526000" />
+      <workItem from="1554933057718" duration="908000" />
+      <workItem from="1555269427025" duration="1224000" />
+      <workItem from="1555276426611" duration="36000" />
+      <workItem from="1558902340894" duration="39000" />
+      <workItem from="1558902537963" duration="69000" />
+      <workItem from="1570138147194" duration="8722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>person</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

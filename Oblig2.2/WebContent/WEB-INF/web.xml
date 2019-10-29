@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+
+
+	<display-name>Oblig2.2</display-name>
+	<welcome-file-list>
+    	<welcome-file>InnloggingServlet</welcome-file>
+    	
+  	</welcome-file-list>
+  
+       <servlet>
+        <display-name>InnloggingServlet</display-name>
+        <servlet-name>InnloggingServlet</servlet-name>
+        <servlet-class>no.hvl.dat108.InnloggingServlet</servlet-class>
+        <init-param>
+            <param-name>passwordet</param-name>
+            <param-value>admin</param-value>
+        </init-param>
+        <init-param>
+            <param-name>inactiveInterval</param-name>
+            <param-value>100000</param-value>
+        </init-param>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>InnloggingServlet</servlet-name>
+        <url-pattern>/InnloggingServlet</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <display-name>FeilpassordServlet</display-name>
+        <servlet-name>FeilpassordServlet</servlet-name>
+        <servlet-class>no.hvl.dat108.FeilpassordServlet</servlet-class>
+        <init-param>
+            <param-name>passwordet</param-name>
+            <param-value>admin</param-value>
+        </init-param>
+        <init-param>
+            <param-name>inactiveInterval</param-name>
+            <param-value>100000</param-value>
+        </init-param>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>FeilpassordServlet</servlet-name>
+        <url-pattern>/FeilpassordServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ListeServlet</servlet-name>
+        <servlet-class>no.hvl.dat108.ListeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ListeServlet</servlet-name>
+        <url-pattern>/ListeServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
